@@ -21,17 +21,21 @@
   --width-desktop: 1440;
 
   /* Colours */
-  --clr-lightRed: hsl(0, 100%, 67%);
-  --clr-orangeYellow: hsl(39, 100%, 56%);
+  --clr-Red: hsl(0, 100%, 67%);
+  --clr-lightRed: hsl(0, 100%, 95%);
+  --clr-Yellow: hsl(39, 100%, 56%);
+  --clr-LightYellow: hsl(39, 100%, 95%);
   --clr-greenTeal: hsl(166, 100%, 3%);
+  --clr-LightgreenTeal: hsl(166, 100%, 95%);
   --clr-cobaltBlue: hsl(234, 85%, 45%);
+  --clr-LightcobaltBlue: hsl(234, 85%, 95%);
 
   /* Gradients */
   --gra-lightSlateBlue: hsl(252, 100%, 67%); /* Background */
   --gra-lightRoyalBlue: hsl(241, 81%, 54%); /* Background */
 
   --gra-violetBlue: hsl(256, 72%, 46%, 1); /* Circle */
-  --gra-persianBlue: hsl(241%, 72%, 46%, 0); /* Circle */
+  --gra-persianBlue: hsl(241%, 72%, 46%, ); /* Circle */
 
   /* Neutral Colours */
   --clr-white: hsl(0, 0%, 100%);
